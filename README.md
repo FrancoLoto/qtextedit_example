@@ -1,0 +1,1 @@
+# Creating a QTextEdit example
